@@ -1,4 +1,4 @@
-### IR Flame Sensor
+# IR Flame Sensor
 
 #### Project Overview
 
